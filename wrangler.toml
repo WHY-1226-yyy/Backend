@@ -1,5 +1,5 @@
-name = "blog-likes"
-account_id = "57e18b4fb317b217ebf8b0f74415ab9e"
+name = "backend"
+account_id = "c6c9516a9e8f23c12fbadf8af73d5be1"
 compatibility_date = "2025-04-01"
 main = "src/index.js"
 workers_dev = false
