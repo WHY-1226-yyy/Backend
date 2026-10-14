@@ -1,5 +1,5 @@
 name = "backend"
-account_id = "d6c30d88-6368-46df-b330-899a38131ef0"
+account_id = "c6c9516a9e8f23c12fbadf8af73d5be1"
 compatibility_date = "2025-04-01"
 main = "src/index.js"
 workers_dev = false
@@ -7,7 +7,7 @@ workers_dev = false
 [[d1_databases]]
 binding = "DB"
 database_name = "blog-likes"
-database_id = "210d1bd9-ede1-4cf0-9697-028f48de81dd"
+database_id = "d6c30d88-6368-46df-b330-899a38131ef0"
 
 [observability.logs]
 enabled = true
