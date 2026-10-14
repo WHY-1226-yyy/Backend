@@ -1,5 +1,5 @@
 name = "backend"
-account_id = "c6c9516a9e8f23c12fbadf8af73d5be1"
+account_id = "d6c30d88-6368-46df-b330-899a38131ef0"
 compatibility_date = "2025-04-01"
 main = "src/index.js"
 workers_dev = false
